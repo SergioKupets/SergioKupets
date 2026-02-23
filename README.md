@@ -15,6 +15,9 @@ Featured Projects:
 - Developed a functional Telegram bot to automate customer interactions for a travel agency.
 - Implemented logic for browsing tours and handling users inquiries.
 - Stack: Python, Telegram API, SQLite.
+- Link to presentation on YouTube:
+     English version: https://youtu.be/cEUCMHAoFN8
+     Ukrainian version: https://youtu.be/rvL0AYQNPWA
 
 
 Education:
