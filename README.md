@@ -20,8 +20,7 @@ Featured Projects:
 Education:
 -	Python Development Course | Beetroot Academy
 -	Google AI Essential | Coursera
--	Master of Marketing | Kryviy Rih Institute of Economics (2005)
--	
+-	Master of Marketing | Kryviy Rih Institute of Economics (2005)	
 
 Connect with me:
        -      Location:  Hostomel, Kyiv Oblast, Ukraine
