@@ -27,4 +27,4 @@ Education:
 
 Connect with me:
 - Location:  Hostomel, Kyiv Oblast, Ukraine
-- LinkedIn (ВАШЕ_ПОСИЛАННЯ) | Telegram(+380 93 010 90 27)
+- LinkedIn (ВАШЕ_ПОСИЛАННЯ) | Telegram +380 93 010 90 27
