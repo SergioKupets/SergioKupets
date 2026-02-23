@@ -1,4 +1,4 @@
-Hello, I'm Serhii Cherednichenko 
+Hello, I'm Serhii Cherednichenko, 
 Junior Python Developer | Backend Enthusiast
 
 I am a results-oriented Junior Python Developer with a solid foundation in software development and a background in Marketing. Recently, I graduated from Beetroot Academy, where I mastered Python core, OOP principles, and web development with Django. I am passionate about building efficient backend solutions and automating processes.
