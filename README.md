@@ -11,10 +11,10 @@ Technical Skills:
 -	Tools: Git, PyCharm, VS Code
 
 Featured Projects:
-      -     Telegram Bot for Travel Company
-      -     Developed a functional Telegram bot to automate customer interactions for a travel agency.
-      -     Implemented logic for browsing tours and handling users inquiries.
-      -     Stack: Python, Telegram API, SQLite.
+-     Telegram Bot for Travel Company
+-     Developed a functional Telegram bot to automate customer interactions for a travel agency.
+-     Implemented logic for browsing tours and handling users inquiries.
+-     Stack: Python, Telegram API, SQLite.
 
 
 Education:
@@ -23,5 +23,5 @@ Education:
 -	Master of Marketing | Kryviy Rih Institute of Economics (2005)	
 
 Connect with me:
-       -      Location:  Hostomel, Kyiv Oblast, Ukraine
-       -      LinkedIn (ВАШЕ_ПОСИЛАННЯ) | Telegram(ВАШЕ_ПОСИЛАННЯ)
+-      Location:  Hostomel, Kyiv Oblast, Ukraine
+-      LinkedIn (ВАШЕ_ПОСИЛАННЯ) | Telegram(+380 93 010 90 27)
